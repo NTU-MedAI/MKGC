@@ -31,6 +31,6 @@ subword-nmt
 
 
 
-#Run MKGC example :
+#Run SG-ATT example :
 
-python train.py --MKGC
+python train.py --SG-ATT
