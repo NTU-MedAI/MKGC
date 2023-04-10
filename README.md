@@ -33,4 +33,4 @@ subword-nmt
 
 #Run SG-ATT example :
 
-python train.py --SG-ATT
+python train.py --SGATT
